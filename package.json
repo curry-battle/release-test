@@ -1,6 +1,6 @@
 {
   "name": "@curry-battle/release-test",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A simple utility library for testing Release Please workflow",
   "type": "module",
   "main": "./src/index.js",
