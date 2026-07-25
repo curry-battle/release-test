@@ -1,0 +1,21 @@
+{
+  "name": "@curry-battle/release-test",
+  "version": "0.0.1",
+  "description": "A simple utility library for testing Release Please workflow",
+  "type": "module",
+  "main": "./src/index.js",
+  "exports": {
+    ".": "./src/index.js"
+  },
+  "files": [
+    "src"
+  ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/curry-battle/release-test.git"
+  },
+  "license": "MIT"
+}
